@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|d:\\thirdsem-year2\\baodamclpm\\project\\final\\selenium\\selenium\\testadminthemsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|solutionrelative:selenium\\testadminthemsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\selenium\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|solutionrelative:selenium\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\selenium\\testadthemsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|solutionrelative:selenium\\testadthemsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\selenium\\testexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|solutionrelative:selenium\\testexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\selenium\\testaddtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|solutionrelative:selenium\\testaddtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\selenium\\testvieworder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|solutionrelative:selenium\\testvieworder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\selenium\\testchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|solutionrelative:selenium\\testchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\selenium\\testsearchproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|solutionrelative:selenium\\testsearchproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\selenium\\testregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|solutionrelative:selenium\\testregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\selenium\\testlogout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|solutionrelative:selenium\\testlogout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\selenium\\testchangeinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|solutionrelative:selenium\\testchangeinfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\selenium\\checkcharaters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EC00CD-31A0-4542-9E24-AC481F34A4D2}|Selenium\\Selenium.csproj|solutionrelative:selenium\\checkcharaters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ezlik\\.nuget\\packages\\epplus\\7.0.10\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestExcel.cs",
+              "DocumentMoniker": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestExcel.cs",
+              "RelativeDocumentMoniker": "Selenium\\TestExcel.cs",
+              "ToolTip": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestExcel.cs",
+              "RelativeToolTip": "Selenium\\TestExcel.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAmwHMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T07:43:21.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestAdminThemSp.cs",
+              "DocumentMoniker": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestAdminThemSp.cs",
+              "RelativeDocumentMoniker": "Selenium\\TestAdminThemSp.cs",
+              "ToolTip": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestAdminThemSp.cs",
+              "RelativeToolTip": "Selenium\\TestAdminThemSp.cs",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAYwMwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:33:39.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestAdThemSP.cs",
+              "DocumentMoniker": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestAdThemSP.cs",
+              "RelativeDocumentMoniker": "Selenium\\TestAdThemSP.cs",
+              "ToolTip": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestAdThemSP.cs",
+              "RelativeToolTip": "Selenium\\TestAdThemSP.cs",
+              "ViewState": "AQIAAAwBAAAAAAAAAAAowBsBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:16:03.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestSearchProduct.cs",
+              "DocumentMoniker": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestSearchProduct.cs",
+              "RelativeDocumentMoniker": "Selenium\\TestSearchProduct.cs",
+              "ToolTip": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestSearchProduct.cs",
+              "RelativeToolTip": "Selenium\\TestSearchProduct.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:27:34.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\LoginTest.cs",
+              "RelativeDocumentMoniker": "Selenium\\LoginTest.cs",
+              "ToolTip": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\LoginTest.cs",
+              "RelativeToolTip": "Selenium\\LoginTest.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwEwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:13:08.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestRegister.cs",
+              "DocumentMoniker": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestRegister.cs",
+              "RelativeDocumentMoniker": "Selenium\\TestRegister.cs",
+              "ToolTip": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestRegister.cs",
+              "RelativeToolTip": "Selenium\\TestRegister.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T05:58:43.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestChangePass.cs",
+              "DocumentMoniker": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestChangePass.cs",
+              "RelativeDocumentMoniker": "Selenium\\TestChangePass.cs",
+              "ToolTip": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestChangePass.cs",
+              "RelativeToolTip": "Selenium\\TestChangePass.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAADwv0sAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T05:09:34.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestAddToCart.cs",
+              "DocumentMoniker": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestAddToCart.cs",
+              "RelativeDocumentMoniker": "Selenium\\TestAddToCart.cs",
+              "ToolTip": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestAddToCart.cs",
+              "RelativeToolTip": "Selenium\\TestAddToCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:45:27.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestViewOrder.cs",
+              "DocumentMoniker": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestViewOrder.cs",
+              "RelativeDocumentMoniker": "Selenium\\TestViewOrder.cs",
+              "ToolTip": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestViewOrder.cs",
+              "RelativeToolTip": "Selenium\\TestViewOrder.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:42:28.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestLogout.cs",
+              "DocumentMoniker": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestLogout.cs",
+              "RelativeDocumentMoniker": "Selenium\\TestLogout.cs",
+              "ToolTip": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestLogout.cs",
+              "RelativeToolTip": "Selenium\\TestLogout.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADcAAADrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:51:06.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestChangeInfor.cs",
+              "DocumentMoniker": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestChangeInfor.cs",
+              "RelativeDocumentMoniker": "Selenium\\TestChangeInfor.cs",
+              "ToolTip": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\TestChangeInfor.cs",
+              "RelativeToolTip": "Selenium\\TestChangeInfor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwB0AAAD1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T04:42:28.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\ezlik\\.nuget\\packages\\epplus\\7.0.10\\readme.txt",
+              "ToolTip": "C:\\Users\\ezlik\\.nuget\\packages\\epplus\\7.0.10\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-17T07:44:24.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckCharaters.cs",
+              "DocumentMoniker": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\CheckCharaters.cs",
+              "RelativeDocumentMoniker": "Selenium\\CheckCharaters.cs",
+              "ToolTip": "D:\\ThirdSem-Year2\\BaoDamCLPM\\Project\\Final\\Selenium\\Selenium\\CheckCharaters.cs",
+              "RelativeToolTip": "Selenium\\CheckCharaters.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T05:07:18.919Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
