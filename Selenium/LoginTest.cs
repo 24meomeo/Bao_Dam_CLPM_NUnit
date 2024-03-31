@@ -15,7 +15,7 @@ namespace Selenium
 
         }
         [Test]
-        [TestCase("UserName", "Password", "#%#Yen@gmail.com", "12345", true)]
+        [TestCase("UserName", "Password", "Yen@gmail.com", "12345", true)]
         public void TestMethodLogin(string txtUser, string txtPass, string name, string pass, bool result)
         {
             CheckCharaters checkCharater = new CheckCharaters();

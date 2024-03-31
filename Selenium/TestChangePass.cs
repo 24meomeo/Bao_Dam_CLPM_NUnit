@@ -15,7 +15,7 @@ namespace Selenium
         }
 
         [Test]
-        [TestCase("trandinhtai169@gmail.com", "123456789", "123456789", "123456789", "123456789", "Fail")]
+        [TestCase("meocon@gmail.com", "123456789", "123456789", "123456789", "123456789", "Fail")]
         public void TestMethodChangePass(string name, string pass, string passnow, string passChange, string passChangeC, string result)
         {
             // Test đổi mật khẩu, mà thuộc tính result còn đang lỗi
@@ -28,7 +28,7 @@ namespace Selenium
                 btnClicksettingButton.Click();
             Thread.Sleep(2000);
 
-            IWebElement btnClickheaderlogin = driver.FindElement(By.Id("header-login"));
+            IWebElement btnClickheaderlogin = driver.FindElement(By.LinkText("Đăng nhập"));
             if (btnClickheaderlogin != null)
                 btnClickheaderlogin.Click();
             Thread.Sleep(2000);
@@ -74,7 +74,7 @@ namespace Selenium
 
             string rs = "";
             string m = driver.FindElement(By.CssSelector(".notyf__message")).Text;
-            if (m == "Doi mat khau thanh cong")
+            if (m == "Đổi mật khẩu thành công")
                 rs = "Pass";
             else
                 rs = "Fail";

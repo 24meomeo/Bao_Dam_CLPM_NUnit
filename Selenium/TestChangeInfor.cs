@@ -14,7 +14,7 @@ namespace Selenium
         }
 
         [Test]
-        [TestCase("trandinhtai169@gmail.com", "12345678", "Tainee", "0915779366", "BienHoa", "Pass")]
+        [TestCase("meocon@gmail.com", "123456789", "Yến", "0915779366", "BienHoa", "Pass")]
         public void TestMethodChangePass(string name, string pass, string name2, string phone, string address, string result)
         {
             driver.Navigate().GoToUrl("https://localhost:5001");
@@ -26,7 +26,7 @@ namespace Selenium
                 btnClicksettingButton.Click();
             Thread.Sleep(2000);
 
-            IWebElement btnClickheaderlogin = driver.FindElement(By.Id("header-login"));
+            IWebElement btnClickheaderlogin = driver.FindElement(By.LinkText("Đăng nhập"));
             if (btnClickheaderlogin != null)
                 btnClickheaderlogin.Click();
             Thread.Sleep(2000);
